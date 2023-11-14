@@ -1,0 +1,9 @@
+﻿Product Type,Cooling Capacity R(kW),Minimum Residential TCSPF_mixed
+Air-air Split Systems Non-Ducted,R < 4,5.5
+Air-air Split Systems Non-Ducted,4 ≤ R < 6,5
+Air-air Split Systems Non-Ducted,6 ≤ R < 10,4.5
+Air-air Split Systems Ducted,R < 10,4
+Air-air Split Systems Ducted or Non-Ducted,10 ≤ R < 13,4
+Air-air Split Systems Ducted or Non-Ducted,13 ≤ R < 25,4
+Air-air Split Systems Ducted or Non-Ducted,25 ≤ R ≤ 65,4
+Air-air Unitary Ducted or Non-Ducted,R ≤ 65,3

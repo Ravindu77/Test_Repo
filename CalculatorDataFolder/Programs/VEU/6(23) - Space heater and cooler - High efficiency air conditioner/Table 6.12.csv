@@ -1,0 +1,8 @@
+﻿Cat.,Upgrade Product,Deemed HSPF Base GEMS Cold Zone,Deemed HSPF Base GEMS Mixed Zone,Deemed TCSPF Base GEMS Cold Zone,Deemed TCSPF Base GEMS Mixed Zone,Loss Factor
+6A ,Ducted air to air R < 10 kW ,3.03 ,3.42 ,3.66 ,3.59 ,1.18 
+6B(i) ,Ducted air to air 10 kW ≤ R < 25 kW ,2.86 ,3.25 ,3.42 ,3.35 ,1.18 
+6B(ii) ,Ducted air to air 25 kW ≤ R ≤ 39 kW ,2.86 ,3.22 ,3.22 ,3.05 ,1.18 
+6D ,Non-ducted air to air R < 4kW ,3.89 ,4.36 ,5.38 ,5.23 ,1.0 
+6E(i) ,Non-ducted air to air 4 kW ≤ R < 7 kW ,3.62 ,4.17 ,4.91 ,4.73 ,1.0 
+6E(ii) ,Non-ducted air to air 7 kW ≤ R < 10 kW ,3.50 ,4.17 ,4.80 ,4.73 ,1.0 
+6F ,Non-ducted air to air 10kW ≤ R ≤ 39kW ,3.43 ,3.98 ,4.44 ,4.35 ,1.0 

@@ -1,0 +1,6 @@
+﻿Product Type,Cooling Capacity R(kW),Baseline Cooling AEER,Baseline Heating ACOP
+Air-air Non-Ducted,R < 4,3.33,2.17
+Air-air Non-Ducted,4 ≤ R < 10,2.93,1.97
+Air-air Ducted,R < 10,2.8,1.9
+Air-air Ducted or Non-Ducted,10 ≤ R < 39,2.8,1.9
+Air-air Ducted or Non-Ducted,39 ≤ R ≤ 65,2.75,1.88

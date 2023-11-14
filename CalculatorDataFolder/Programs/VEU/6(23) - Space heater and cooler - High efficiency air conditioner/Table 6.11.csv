@@ -1,0 +1,20 @@
+﻿Scenario,GIHbase,Deemed HSPF Base GEMS Cold Zone,Deemed HSPF Base GEMS Mixed Zone,GICbase,Deemed TCSPF Base GEMS Cold Zone,Deemed TCSPF Base GEMS Mixed Zone,GIH upgrade and GIC upgrade
+(i) ,EEF ,1.000 ,1.000 ,EEF ,"Given in Table 6.12 (residential) 
+or 6.13 (business) ","Given in Table 6.12 (residential) 
+or 6.13 (business) ",EEF 
+(ii) ,EEF ,1.000 ,1.000 ,EEF ,3.290 ,3.264 ,EEF 
+(iii) ,EEF ,0.847 ,0.847 ,EEF ,"Given in Table 6.12 (residential) 
+or Table 6.13 (business) ","Given in Table 6.12 (residential) 
+or Table 6.13 (business) ",EEF 
+(iv) ,EEF ,0.847 ,0.847 ,EEF ,2.788 ,2.766 ,EEF 
+(v) ,EEF ,2.358 ,2.594 ,EEF ,2.788 ,2.766 ,EEF 
+(vi) ,EEF ,2.892 ,3.268 ,EEF ,4.053 ,3.932 ,EEF 
+(vii) ,0.198 ,0.551 ,0.551 ,EEFM ,"Given in Table 6.12 (residential) 
+or Table 6.13 (business) ","Given in Table 6.12 (residential) 
+or Table 6.13 (business) ",EEFM 
+(viii) ,0.198 ,0.551 ,0.551 ,EEFM ,2.788 ,2.766 ,EEFM 
+(ix) ,0.198 ,0.760 ,0.760 ,EEFM ,"Given in Table 6.12 (residential) 
+or Table 6.13 (business) ","Given in Table 6.12 (residential) 
+or Table 6.13 (business) ",EEFM 
+(x) ,0.198 ,0.760 ,0.760 ,EEFM ,4.053 ,3.932 ,EEFM 
+(xi) ,EEF ,Refer to Table 6.12 (residential) or Table 6.13 (business) ,Refer to Table 6.12 (residential) or Table 6.13 (business) ,EEF ,Refer to Table 6.12 (residential) or Table 6.13 (business) ,Refer to Table 6.12 (residential) or Table 6.13 (business) ,EEF 

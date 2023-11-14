@@ -1,0 +1,9 @@
+﻿Product Type,Cooling Capacity R(kW),Minimum Rated AEER,Minimum Rated ACOP
+Air-air Split Systems Non-Ducted,R < 4,4.3,4.4
+Air-air Split Systems Non-Ducted,4 ≤ R < 6,3.6,3.9
+Air-air Split Systems Non-Ducted,6 ≤ R < 10,3.5,3.7
+Air-air Split Systems Ducted,R < 10,3.5,3.8
+Air-air Split Systems Ducted or Non-Ducted,10 ≤ R < 13,3.5,3.9
+Air-air Split Systems Ducted or Non-Ducted,13 ≤ R < 25,3.3,3.7
+Air-air Split Systems Ducted or Non-Ducted,25 ≤ R ≤ 65,3.2,3.7
+Air-air Unitary Ducted or Non-Ducted,R ≤ 65,3.3,3.3

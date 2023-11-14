@@ -1,0 +1,6 @@
+﻿VEU Climatic Region,Residential Heating BTL Heat (MWh/kW),Residential Cooling BTL Cool (MWh/kW),Business Heating BTL Heat (MWh/kW),Business Cooling BTL Cool (MWh/kW)
+For upgrades in Metropolitan Victoria - Climatic region mild,1.3144,0.2696,0.4495 ,0.7175
+For upgrades in Metropolitan Victoria - Climatic region cold,1.4458,0.2696,0.4944 ,0.7175
+For upgrades in Regional Victoria - Climatic region mild,1.3144,0.2696,0.4495 ,0.7175
+For upgrades in Regional Victoria - Climatic region cold,1.4458,0.2696,0.4944 ,0.7175
+For upgrades in Regional Victoria - Climatic region hot,0.7211,0.4296,0.3380 ,0.8910

@@ -1,0 +1,6 @@
+﻿Product Type,Cooling Capacity R(kW),Baseline Cooling AEER
+Air-air Non-Ducted,R < 4,3.33
+Air-air Non-Ducted,4 ≤ R < 10,2.93
+Air-air Ducted,R < 10,2.8
+Air-air Ducted or Non-Ducted,10 ≤ R < 39,2.8
+Air-air Ducted or Non-Ducted,39 ≤ R ≤ 65,2.75
